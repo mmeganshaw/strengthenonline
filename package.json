@@ -1,0 +1,27 @@
+{
+  "name": "strengthenonline",
+  "version": "1.0.0",
+  "description": "This is a website for Strengthen Your Online Presence",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmeganshaw/strengthenonline.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Megan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmeganshaw/strengthenonline/issues"
+  },
+  "homepage": "https://github.com/mmeganshaw/strengthenonline#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
